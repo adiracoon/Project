@@ -29,7 +29,6 @@ Use this template to describe and document your engineering project.
 The AR Images Layout Planner is a tool that assists users in planning and executing the perfect placement of pictures on walls, using augmented reality to guide and monitor the alignment process.
 
 
-
 ## ⚡ Getting Started
 
 These instructions will help you set up the project on your local machine for development and testing purposes.
