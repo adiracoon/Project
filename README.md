@@ -41,11 +41,11 @@ These instructions will help you set up the project on your local machine for de
 
 
 ### 🏗️ Installing
-    Clone the repository:
+
+1. Clone the repository:
+   ```bash
    git clone https://github.com/adiracoon/Project.git
    cd Project
-   source venv/bin/activate  python -m venv venv # On Windows use `venv\Scripts\activate`
-   pip install -r requirements.txt
 
 
 ## 🚀 Deployment
