@@ -14,12 +14,15 @@ Use this template to describe and document your engineering project.
 - [Built With](#built-with)
 - [Acknowledgments](#acknowledgments)
 
-## 👥 **Group Number: 118A**
+## 👥 The Team 
+**Group Number: 118A**
+
 **Team Members**
-- [Member 1](adir.ashash@mail.huji.ac.il)
+- Adir Ashash (adir.ashash@mail.huji.ac.il)
 
 **Supervisor**
-- [Gal Katzhendler](gal.katzhendler@mail.huji.ac.il)
+- [Gal Katzhendler](mailto:gal.katzhendler@mail.huji.ac.il)
+
 
 
 ## 📚 Project Description
