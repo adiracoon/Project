@@ -43,9 +43,21 @@ These instructions will help you set up the project on your local machine for de
 ### 🏗️ Installing
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/adiracoon/Project.git
-   cd Project
+    ```bash
+    git clone https://github.com/adiracoon/Project.git
+    cd Project
+    ```
+
+2. Create a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 
 ## 🚀 Deployment
